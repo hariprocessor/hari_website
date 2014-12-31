@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgotic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+body {
+	font-family: "Nanum Gothic", sans-serif;
+/*	color: gray;*/
+}
+
+#nav a {
+	font-family: "Open Sans Hebrew", sans-serif;
+	font-weight: bold;
+	color: white;
+}
